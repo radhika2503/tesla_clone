@@ -4,7 +4,12 @@ body{
     padding: 0;
     background: url('car.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
+
 }
+a:hover {
+    background-color: rgb(209, 209, 195);
+  }
 
 nav{
     position: fixed;
